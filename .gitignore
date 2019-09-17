@@ -11,7 +11,7 @@ package-lock.json# See https://help.github.com/articles/ignoring-files/ for more
 /coverage
 
 # production
-/build
+
 
 # misc
 .DS_Store
