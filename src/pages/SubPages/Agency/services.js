@@ -20,7 +20,7 @@ class Services extends Component {
                                 <div className="title text-center mb-5">
                                     <p className="text-uppercase text-muted mb-2 f-13 subtitle">Services</p>
                                     <h3>What We Do</h3>
-                                    <p className="text-muted mt-3">Dantes remained confused and silent by this explanation of the thoughts which had unconsciously been working in his mind, or rather soul.</p>
+                                    <p className="text-muted mt-3">AhazTech taps into the power of digital to develop custom software applications and products for industry domains such as Retail, Transportation & Supply Chain and Financial Services. In the times, we grew swiftly to serve more customers across Ethiopia.</p>
                                 </div>
                             </Col>
                         </Row>
@@ -31,8 +31,8 @@ class Services extends Component {
                                         <i className="pe-7s-monitor display-4"></i>
                                     </div>
                                     <div className="services-desc">
-                                        <h5 className="mt-4 mb-4 f-18">Digital Design</h5>
-                                        <p className="text-muted">It is a long established fact that a reader will be by the content.</p>
+                                        <h5 className="mt-4 mb-4 f-18">Software Development</h5>
+                                        <p className="text-muted">The development of reliable and scalable software solutions for any OS or device.We bring together deep industry expertise and the latest IT advancements to deliver custom solutions </p>
                                         <div>
                                             <Link yo="#" className="text-custom">
                                                 <i className="mdi mdi-arrow-right h3"></i>
@@ -47,8 +47,10 @@ class Services extends Component {
                                         <i className="pe-7s-notebook display-4"></i>
                                     </div>
                                     <div className="services-desc">
-                                        <h5 className="mt-4 mb-4 f-18">Unlimited Colors</h5>
-                                        <p className="text-muted">The European languages are members of the separate existence</p>
+                                        <h5 className="mt-4 mb-4 f-18">eLearning Applications</h5>
+                                        <p className="text-muted">Efficient and high-end custom eLearning development services both for educators and learners. Bring innovation to every aspect of the educational process from management to assessment.
+
+.</p>
                                         <div>
                                             <Link to="#" className="text-custom">
                                                 <i className="mdi mdi-arrow-right h3"></i>
@@ -63,8 +65,8 @@ class Services extends Component {
                                         <i className="pe-7s-exapnd2 display-4"></i>
                                     </div>
                                     <div className="services-desc">
-                                        <h5 className="mt-4 mb-4 f-18">Strategy Solutions</h5>
-                                        <p className="text-muted">He lay on his armour-like back, and if he lifted his head a little</p>
+                                        <h5 className="mt-4 mb-4 f-18">Cybersecurity Solutions</h5>
+                                        <p className="text-muted">To achieve the robust protection of the companies’ applications and networks.Our security experts are ready to deliver a variety of cyber protection services.</p>
                                         <div>
                                             <Link to="#" className="text-custom">
                                                 <i className="mdi mdi-arrow-right h3"></i>
@@ -82,7 +84,7 @@ class Services extends Component {
                                     </div>
                                     <div className="services-desc">
                                         <h5 className="mt-4 mb-4 f-18">Awesome Support</h5>
-                                        <p className="text-muted">The wonderful serenity has taken of my sweet mornings of spring.</p>
+                                        <p className="text-muted">We take on solving diverse issues from answering application functionality questions to performing fixes and enhancements on the code level for improved adoption of software, its smooth functioning and increased end user satisfaction.</p>
                                         <div>
                                             <Link to="#" className="text-custom">
                                                 <i className="mdi mdi-arrow-right h3"></i>
@@ -97,8 +99,8 @@ class Services extends Component {
                                         <i className="pe-7s-albums display-4"></i>
                                     </div>
                                     <div className="services-desc">
-                                        <h5 className="mt-4 mb-4 f-18">Truly Multipurpose</h5>
-                                        <p className="text-muted">It showed a lady fitted out with a fur boa who sat upright a heavy.</p>
+                                        <h5 className="mt-4 mb-4 f-18">User Experience</h5>
+                                        <p className="text-muted">Able to lead the creation of the user experience or execute it through visual design, we bring expertise in all stages from proof-of-concept prototyping to complete mobile/web solution transformation. </p>
                                         <div>
                                             <Link to="#" className="text-custom">
                                                 <i className="mdi mdi-arrow-right h3"></i>
@@ -113,8 +115,8 @@ class Services extends Component {
                                         <i className="pe-7s-upload display-4"></i>
                                     </div>
                                     <div className="services-desc">
-                                        <h5 className="mt-4 mb-4 f-18">Easy to customize</h5>
-                                        <p className="text-muted">The languages only differ in their most a new common language</p>
+                                        <h5 className="mt-4 mb-4 f-18">Automation Services</h5>
+                                        <p className="text-muted">Slash down the costs while boosting up productivity with our sophisticated automating solutions</p>
                                         <div>
                                             <Link to="#" className="text-custom">
                                                 <i className="mdi mdi-arrow-right h3"></i>

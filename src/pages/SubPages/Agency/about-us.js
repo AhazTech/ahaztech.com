@@ -27,32 +27,22 @@ class AboutUs extends Component {
                             </Col>
                         </Row>
                         <Row className="vertical-content mt-4">
-                            <Col lg="7">
+                            <Col lg="6">
                                 <Row>
-                                    <Col lg="6">
-                                        <div className="agency-about-img">
-                                            <img src={img1} alt="" className="img-fluid mx-auto d-block" />
-                                            <div className="agency-about-img-desc text-center text-white">
-                                                <h5 className="mt-3 f-17">Strategy Solutions</h5>
-                                                <p>There are many variations</p>
-                                            </div>
-                                        </div>
-                                    </Col>
-                                    <Col lg="6">
+                                  
+                                    <Col lg="8">
                                         <div className="agency-about-img mt-5">
                                             <img src={img2}  alt="" className="img-fluid mx-auto d-block" />
                                             <div className="agency-about-img-desc text-center text-white">
-                                                <h5 className="mt-3 f-17">Dedicated Support</h5>
-                                                <p>The Sed ut perspiciatis unde</p>
-                                            </div>
+                                                <h5 className="mt-3 f-17">Dedicated Team</h5>
+                                                <p>Turning Your Great Ideas into Successful Web Solutions</p>                                            </div>
                                         </div>
                                     </Col>
                                 </Row>
                             </Col>
-                            <Col lg="5">
+                            <Col lg="6">
                                 <div className="about-content p-4">
-                                    <h6 className="mb-4">A digital web studio creating stunning experiences</h6>
-                                    <p className="text-muted">It is a long established fact that a reader will be distracted by the readable content of a page looking at its layout. The point of using Lorem Ipsum is that it has a normal distribution of letters.</p>
+                                    <p className="text-muted">AhazTech is a leading developer of custom Enterprise and eLearning solutions. AhazTech uses the power of Mobile, Web, Analytics, Cloud, and Digital technologies to unlock the potential of businesses across verticals. We focus on serving the Enterprise, ISV and Startup segments across the Retail, Transportation, Healthcare & Financial Services domains. Headquartered in Addis Abeba, Ethiopia, AhazTech has offices around the country</p>
                                     <div className="pt-4">
                                         <Link to="#" className="btn btn-custom">Learn more <i className="mdi mdi-arrow-right"></i></Link>
                                     </div>
